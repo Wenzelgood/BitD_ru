@@ -7,8 +7,8 @@
   "minimumCoreVersion": "0.5.5",
   "compatibleCoreVersion": "0.9.2",
   "url": "https://github.com/stepfire/BitD_ru",
-  "download": "",
-  "manifest": "https://raw.githubusercontent.com/stepfire/BitD_ru/45634d3aa937e74cb9f137dc9640c28ef7282a78/module.json",
+  "download": "https://github.com/stepfire/BitD_ru/archive/refs/heads/main.zip",
+  "manifest": "https://raw.githubusercontent.com/stepfire/BitD_ru/main/module.json",
   
   "dependencies" : [
 	{
