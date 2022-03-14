@@ -2,6 +2,7 @@
 Russian translation of Blades in the Dark roleplaying system for Foundry VTT
 ## Ссылки
 Страница модуля на Github: https://github.com/stepfire/BitD_ru
+
 Manifest: https://raw.githubusercontent.com/stepfire/BitD_ru/main/module.json
 ### Установка модуля
 1. Копируем ссылку **Manifest** (указана выше)
