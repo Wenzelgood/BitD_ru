@@ -1,9 +1,9 @@
 # Перевод библиотек системы Blades in the Dark на русский язык | Foundry VTT
 Russian compendium translation of Blades in the Dark roleplaying system for Foundry VTT
 ## Ссылки
-Страница модуля на Github: https://github.com/stepfire/BitD_ru
+Страница модуля на Github: https://github.com/Wenzelgood/BitD_ru
 
-Manifest: https://raw.githubusercontent.com/stepfire/BitD_ru/main/module.json
+Manifest: https://raw.githubusercontent.com/Wenzelgood/BitD_ru/main/module.json
 ### Установка модуля
 1. Копируем ссылку **Manifest** (указана выше)
 2. Заходим в **Add-on Modules** (Модули)
