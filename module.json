@@ -8,8 +8,8 @@
   "compatibleCoreVersion": "9",
   "esmodules": ["babele-register.js"],
   "url": "https://github.com/stepfire/BitD_ru",
-  "download": "https://github.com/stepfire/BitD_ru/archive/refs/heads/main.zip",
-  "manifest": "https://raw.githubusercontent.com/stepfire/BitD_ru/main/module.json",
+  "download": "https://github.com/Wenzelgood/BitD_ru/archive/refs/heads/main.zip",
+  "manifest": "https://raw.githubusercontent.com/Wenzelgood/BitD_ru/main/module.json",
   
   "dependencies" : [
 	{
