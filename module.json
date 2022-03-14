@@ -1,0 +1,20 @@
+{
+  "name": "bitd-ru",
+  "title": "Blades in the Dark - Translations (Russian)",
+  "description": "Перевод на русский язык ролевой системы Blades in the Dark для Foundry VTT | Библиотеки",
+  "version": "0.0.6",
+  "author": "Wenzelgood",
+  "minimumCoreVersion": "0.5.5",
+  "compatibleCoreVersion": "0.9.2",
+  "url": "https://github.com/stepfire/BitD_ru",
+  "download": "https://gitlab.com/Cyberdwarf1664/bid-fr/-/archive/main/bid-fr-main.zip",
+  "manifest": "https://gitlab.com/Cyberdwarf1664/bid-fr/-/raw/main/module.json",
+  
+  "dependencies" : [
+	{
+	  "name": "babele",
+	  "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
+	}
+]
+ 
+}
