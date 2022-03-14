@@ -5,7 +5,8 @@
   "version": "0.0.6",
   "author": "Wenzelgood",
   "minimumCoreVersion": "0.5.5",
-  "compatibleCoreVersion": "0.9.2",
+  "compatibleCoreVersion": "9",
+  "esmodules": ["babele-register.js"],
   "url": "https://github.com/stepfire/BitD_ru",
   "download": "https://github.com/stepfire/BitD_ru/archive/refs/heads/main.zip",
   "manifest": "https://raw.githubusercontent.com/stepfire/BitD_ru/main/module.json",
@@ -15,6 +16,10 @@
 	  "name": "babele",
 	  "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
 	}
-]
+  ],
+	
+  "systems": [
+    "blades-in-the-dark"
+  ]
  
 }
